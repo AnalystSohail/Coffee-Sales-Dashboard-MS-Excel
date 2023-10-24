@@ -1,2 +1,1 @@
-# Coffee-Sales-Dashboard-MS-Excel
-This repository contains a comprehensive data analysis project on coffee sales using Microsoft Excel. We've gathered and analyzed data related to coffee sales, customer preferences, and seasonal trends to provide valuable information for optimizing your coffee business.
+In this project, we delve into a dataset capturing coffee sales data over a specific time frame. We explore various aspects of the data to gain a better understanding of how coffee sales have evolved over time, identifying factors that contribute to changes in sales figures.
